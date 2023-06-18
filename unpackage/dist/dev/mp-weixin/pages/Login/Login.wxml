@@ -1,0 +1,1 @@
+<view class="ace-form"><view class="container"><view class="ace-input-container"><input class="ace-input" placeholder="Name"></input></view><view class="ace-input-container"><input class="ace-input" type="safe-password" placeholder="Password"></input></view><button class="login-button"><label class="login-font">Login</label></button></view></view>
